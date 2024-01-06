@@ -1,0 +1,11 @@
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.csproj.AssemblyReference.cache
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.csproj.SuggestedBindingRedirects.cache
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.Form1.resources
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.Properties.Resources.resources
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.csproj.GenerateResource.cache
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.csproj.CoreCompileInputs.cache
+E:\c# projects\gettingHardwareInfo\bin\Debug\gettingHardwareInfo.exe.config
+E:\c# projects\gettingHardwareInfo\bin\Debug\gettingHardwareInfo.exe
+E:\c# projects\gettingHardwareInfo\bin\Debug\gettingHardwareInfo.pdb
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.exe
+E:\c# projects\gettingHardwareInfo\obj\Debug\gettingHardwareInfo.pdb
